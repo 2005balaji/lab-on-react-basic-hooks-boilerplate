@@ -1,0 +1,8 @@
+#para.active {
+  display: block;
+}
+#para {
+  display: block;
+  align-items: center;
+  justify-content:center ;
+  text-align: center;}
